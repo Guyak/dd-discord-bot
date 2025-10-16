@@ -1,0 +1,11 @@
+{
+  "serv_DD": "DD's server ID - remove colons",
+  "stream_channel_DD": "DD's channel ID - remove colons",
+  "in_use_DD": false,
+  "serv_Guyal" : "Guyal's server ID - remove colons",
+  "stream_channel_Guyal": "Guyal's channel ID - remove colons",
+  "in_use_Guyal": true,
+  "serv_HR" : "HR's server ID - remove colons",
+  "stream_channel_HR": "HR's channel ID - remove colons",
+  "in_use_HR" : true
+}
